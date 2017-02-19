@@ -13,6 +13,8 @@
 
 - https://martinfowler.com/nosql.html
 - http://blog.byndyu.ru/
+- https://habrahabr.ru/post/232881/
+- http://enterprisecraftsmanship.com/
 
 ### Videos
 
