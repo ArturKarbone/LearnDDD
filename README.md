@@ -16,6 +16,10 @@
 - https://habrahabr.ru/post/232881/
 - http://enterprisecraftsmanship.com/
 
+### StackOverflow
+
+- http://bit.ly/1FSzTg1
+
 ### Videos
 
 ### Whitepapers
