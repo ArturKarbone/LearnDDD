@@ -15,6 +15,7 @@
 - http://blog.byndyu.ru/
 - https://habrahabr.ru/post/232881/
 - http://enterprisecraftsmanship.com/
+- http://bit.ly/1XF0J6H
 
 ### StackOverflow
 
