@@ -28,6 +28,9 @@
 
 ### Use Cases
 
+### Conferences
+
+- https://skillsmatter.com/conferences/8231-ddd-exchange-2017
 
 ### Katas
 
