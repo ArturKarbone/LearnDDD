@@ -40,8 +40,8 @@
 #### WintellectNow
 
 
-#### Pluralsight
-
+#### Pluralsight 
+- [DDD Path](https://app.pluralsight.com/paths/skill/domain-driven-design)
 - [Domain-Driven Design in Practice](https://app.pluralsight.com/library/courses/domain-driven-design-in-practice/table-of-contents)
 - [Domain-Driven Design Fundamentals](https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals/table-of-contents)
 - [Modern Software Architecture: Domain Models, CQRS, and Event Sourcing](https://app.pluralsight.com/library/courses/modern-software-architecture-domain-models-cqrs-event-sourcing/table-of-contents)
