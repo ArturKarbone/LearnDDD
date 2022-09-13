@@ -31,6 +31,11 @@
 ### Conferences
 
 - https://skillsmatter.com/conferences/8231-ddd-exchange-2017
+- https://dddeurope.com/
+- https://kandddinsky.de/
+- http://exploreddd.com/
+- https://skillsmatter.com/conferences/13257-dddx-2021
+- https://virtualddd.com/sessions/
 
 ### Katas
 
