@@ -62,8 +62,17 @@
 
 ### Books
 - [Eric Evans. Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)
+- [Domain-Driven Design Reference: Definitions and Pattern Summaries](https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-2014-09-22/dp/B01N8YB4ZO/)
+- [Applying Domain-Driven Design And Patterns](https://www.amazon.com/Applying-Domain-Driven-Design-Patterns-Examples/dp/0321268202/)
+- [Domain-Driven Design Quickly](https://www.amazon.com/Domain-Driven-Design-Quickly-Abel-Avram/dp/1411609255/)
 - [Adaptive Systems with Domain-Driven Design, Wardley Mapping, and Team Topologies: Architecture for Flow](https://www.amazon.co.uk/Adaptive-Systems-Domain-Driven-Wardley-Topologies/dp/0137393032/)
+- [N-Layered Domain-Oriented Architecture Guide with .Net 4.0](https://www.amazon.com/N-Layered-Domain-Oriented-Architecture-Guide-NET/dp/8493903612/)
+- [.NET Domain-Driven Design with C#: Problem - Design - Solution ](https://www.amazon.com/NET-Domain-Driven-Design-Problem-Solution/dp/0470147563/)
 - [Balancing Coupling in Software Design: Successful Software Architecture in General and Distributed Systems](https://www.amazon.co.uk/Balancing-Coupling-Software-Design-Addison-Wesley/dp/0137353480/)
+- [Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software](https://www.amazon.co.uk/Domain-Storytelling-Collaborative-Domain-Driven-Addison-Wesley/dp/0137458916/)
+- [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.amazon.co.uk/Strategic-Monoliths-Microservices-Architecture-Addison-Wesley/dp/0137355467)
+- [Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures ](https://www.amazon.co.uk/Software-Architecture-Modern-Tradeoff-Analysis/dp/1492086894)
+- [Continuous Architecture in Practice: Software Architecture in the Age of Agility and DevOps](https://www.amazon.co.uk/Continuous-Architecture-Practice-Addison-Wesley-Signature/dp/0136523560/)
 - [Patterns, Principles, and Practices of Domain-Driven Design](https://www.amazon.co.uk/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709/)
 - [Implementing Domain-Driven Design](https://www.amazon.co.uk/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8/)
 - [Domain-Driven Design Distilled](https://www.amazon.co.uk/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420/)
