@@ -61,6 +61,14 @@
  
 
 ### Books
+- [Eric Evans. Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)
+- [Adaptive Systems with Domain-Driven Design, Wardley Mapping, and Team Topologies: Architecture for Flow](https://www.amazon.co.uk/Adaptive-Systems-Domain-Driven-Wardley-Topologies/dp/0137393032/)
+- [Balancing Coupling in Software Design: Successful Software Architecture in General and Distributed Systems](https://www.amazon.co.uk/Balancing-Coupling-Software-Design-Addison-Wesley/dp/0137353480/)
+- [Patterns, Principles, and Practices of Domain-Driven Design](https://www.amazon.co.uk/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709/)
+- [Implementing Domain-Driven Design](https://www.amazon.co.uk/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8/)
+- [Domain-Driven Design Distilled](https://www.amazon.co.uk/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420/)
+- [Hands-On Domain-Driven Design with .NET Core](https://www.amazon.co.uk/Hands-Domain-Driven-Design-NET/dp/1788834097/)
+- [Domain Modeling Made Functional](https://www.amazon.co.uk/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549)
 
 
 
