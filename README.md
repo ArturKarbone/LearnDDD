@@ -69,6 +69,7 @@
 - [Eric Evans. Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)
 - [Domain-Driven Design Reference: Definitions and Pattern Summaries](https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-2014-09-22/dp/B01N8YB4ZO/)
 - [Applying Domain-Driven Design And Patterns](https://www.amazon.com/Applying-Domain-Driven-Design-Patterns-Examples/dp/0321268202/)
+- [Domain-Driven Design Using Naked Objects (The Pragmatic Programmers)](https://www.amazon.co.uk/Domain-Driven-Design-Objects-Pragmatic-Programmers/dp/1934356441/)
 - [Domain-Driven Design Quickly](https://www.amazon.com/Domain-Driven-Design-Quickly-Abel-Avram/dp/1411609255/)
 - [Adaptive Systems with Domain-Driven Design, Wardley Mapping, and Team Topologies: Architecture for Flow](https://www.amazon.co.uk/Adaptive-Systems-Domain-Driven-Wardley-Topologies/dp/0137393032/)
 - [N-Layered Domain-Oriented Architecture Guide with .Net 4.0](https://www.amazon.com/N-Layered-Domain-Oriented-Architecture-Guide-NET/dp/8493903612/)
