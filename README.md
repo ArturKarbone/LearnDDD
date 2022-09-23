@@ -75,6 +75,7 @@
 - [N-Layered Domain-Oriented Architecture Guide with .Net 4.0](https://www.amazon.com/N-Layered-Domain-Oriented-Architecture-Guide-NET/dp/8493903612/)
 - [.NET Domain-Driven Design with C#: Problem - Design - Solution ](https://www.amazon.com/NET-Domain-Driven-Design-Problem-Solution/dp/0470147563/)
 - [Balancing Coupling in Software Design: Successful Software Architecture in General and Distributed Systems](https://www.amazon.co.uk/Balancing-Coupling-Software-Design-Addison-Wesley/dp/0137353480/)
+- [Learning Domain-Driven Design](https://www.amazon.co.uk/gp/product/1098100131/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
 - [Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software](https://www.amazon.co.uk/Domain-Storytelling-Collaborative-Domain-Driven-Addison-Wesley/dp/0137458916/)
 - [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.amazon.co.uk/Strategic-Monoliths-Microservices-Architecture-Addison-Wesley/dp/0137355467)
 - [Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures ](https://www.amazon.co.uk/Software-Architecture-Modern-Tradeoff-Analysis/dp/1492086894)
