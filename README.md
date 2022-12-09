@@ -92,5 +92,10 @@
 - [Wardley Maps](https://www.amazon.co.uk/Wardley-Maps-Simon/dp/B0B3S3Q1WW/ref=sr_1_1?crid=35Z3J3GBW7BBH&keywords=wardley+map&qid=1670607492&sprefix=wardley+map%2Caps%2C173&sr=8-1)
 - [Value Stream Mapping](https://www.amazon.co.uk/Value-Stream-Mapping-Organizational-Transformation/dp/0071828915/ref=sr_1_1?crid=AWEEAX96KWV1&keywords=value+stream+mapping&qid=1670607604&sprefix=value+stream%2Caps%2C206&sr=8-1)
 
+### Team topologies books
+
+- [Team Topologies](https://www.amazon.co.uk/Team-Topologies-Organizing-Business-Technology/dp/1942788819/ref=sr_1_1?keywords=team+topologies&qid=1670607940&sr=8-1)
+- [Remote Team Interactions Workbook](https://www.amazon.co.uk/Remote-Team-Interactions-Workbook-Topologies/dp/1950508617/ref=sr_1_2?crid=9A7MBGOHXGS0&keywords=team+topologies&qid=1670607850&sprefix=team+topol%2Caps%2C204&sr=8-2)
+
 ### Public Speaking
 
