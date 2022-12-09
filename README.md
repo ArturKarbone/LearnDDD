@@ -86,7 +86,11 @@
 - [Hands-On Domain-Driven Design with .NET Core](https://www.amazon.co.uk/Hands-Domain-Driven-Design-NET/dp/1788834097/)
 - [Domain Modeling Made Functional](https://www.amazon.co.uk/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549)
 
+### Identifying subdomains books
 
+- [Writing Effective Use Cases](https://www.amazon.co.uk/Writing-Effective-Crystal-Software-Development/dp/0201702258/ref=sr_1_2?crid=AZOZWS7PPXNN&keywords=effective+use+cases&qid=1670607735&sprefix=effetive+use+case%2Caps%2C336&sr=8-2)
+- [Wardley Maps](https://www.amazon.co.uk/Wardley-Maps-Simon/dp/B0B3S3Q1WW/ref=sr_1_1?crid=35Z3J3GBW7BBH&keywords=wardley+map&qid=1670607492&sprefix=wardley+map%2Caps%2C173&sr=8-1)
+- [Value Stream Mapping](https://www.amazon.co.uk/Value-Stream-Mapping-Organizational-Transformation/dp/0071828915/ref=sr_1_1?crid=AWEEAX96KWV1&keywords=value+stream+mapping&qid=1670607604&sprefix=value+stream%2Caps%2C206&sr=8-1)
 
 ### Public Speaking
 
