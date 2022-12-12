@@ -85,6 +85,7 @@
 - [Domain-Driven Design Distilled](https://www.amazon.co.uk/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420/)
 - [Hands-On Domain-Driven Design with .NET Core](https://www.amazon.co.uk/Hands-Domain-Driven-Design-NET/dp/1788834097/)
 - [Domain Modeling Made Functional](https://www.amazon.co.uk/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549)
+- [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/books1.html)
 
 ### Identifying subdomains books
 
